@@ -9,7 +9,11 @@ Compétences obtenues :
 - Traiter les données avec Python. Toutes les bases du traitement de données sont passées en revue (import, nettoyage, sélection / regroupement / agrégation)
 
 
-2/ Optimisez la gestion des données d'une boutique avec Python
+
+
+
+
+2/ Optimisez la gestion des données d'une boutique avec Python - Bottleneck
 
 L'objectif du projet est d’analyser des données d'une boutique en ligne, de classifier ces données et de réaliser une analyse univariée.
 
