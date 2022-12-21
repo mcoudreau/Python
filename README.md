@@ -22,3 +22,16 @@ Compétences obtenues :
 - Classifier différents types de données
 - Gérer les erreurs et les incohérences présentes sur des données stockées (outliers)
 
+
+
+
+
+3/ Analyser les ventes d'une entreprise - Librairie Lapage
+
+L'objectif du projet est de réaliser une analyse statistique exploratoire. 
+
+Compétences obtenues : 
+- Calcul d’une moyenne, d’une variance, d’une médiane, des quantiles
+- Analyse de concentration : indice de Gini, courbe de Lorenz
+- Construction et représentation graphique : boxplot (boîte à moustache), histogramme, séries temporelles
+- Analyse bivariée : coefficient de corrélation, régression linéaire, ANOVA, Khi2.
