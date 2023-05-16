@@ -1,4 +1,4 @@
-# Python
+# Projets en Python
 
 1/ Étude de sante publique FAO
 L'objectif du projet est d’analyser des données provenant de la FAO (Food and Agriculture Organization) qui est l’organisme rattaché à l’ONU ayant pour ambition de faire disparaître la faim dans le monde.
